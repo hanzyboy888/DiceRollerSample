@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuitaligDiceRoller</string>
+    <string name="roll_label">Roll</string>
+    <string name="roll_text">Click the button to roll a die</string>
+    <string name="result_text">Hello !!</string>
+    <string name="reset_label">Reset</string>
+    <string name="roll_success_text">Dice Rolled!</string>
+    <string name="count_up_label">Count Up!</string>
+    <string name="count_requirement">Please Roll A Number First !!</string>
+    <string name="count_max">Dice Cannot Exceed the Number 6 !!</string>
+    <string name="one">1</string>
+    <string name="six">6</string>
+</resources>
